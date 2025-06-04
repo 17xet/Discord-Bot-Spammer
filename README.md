@@ -1,5 +1,8 @@
 # Discord Bot Spammer
 
+![image](https://github.com/user-attachments/assets/683835ff-ad97-46c9-b867-2572f1de07a2)
+
+
 A Python Discord bot that supports multiple bot tokens running simultaneously.  
 It features commands for sending spam messages to users and channels with rate limit control and a stylish CLI interface.
 
